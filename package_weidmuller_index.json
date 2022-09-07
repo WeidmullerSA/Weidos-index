@@ -25,8 +25,8 @@
                             "name": "WEIDOS-MKR1010-NBIOT-A1"
                         }
                     ],
-                    "archiveFileName": "weidos-mkr-1.0.0.tar.bz2",
-                    "url": "https://github.com/WeidmullerSA/weidos/raw/main/weidos-mkr-1.0.0.tar.bz2",
+                    "archiveFileName": "Weidos-mkr-1.0.0.tar.bz2",
+                    "url": "https://github.com/OriolFalip/weidos/raw/main/Weidos-mkr-1.0.0.tar.bz2",
                     "toolsDependencies": [
                         {
                           "packager": "arduino",
@@ -59,8 +59,8 @@
                           "version": "1.2.1"
                         }
                     ],
-                    "size": 1047900 ,
-                    "checksum": "SHA-256:6e2c84d6eea50ece07a00c336954af3869d68ae9f44bc607cf2ba2cddac26394"
+                    "size": 1257889,
+                    "checksum": "SHA-256:2411852420e78a712528f9d16e1c4874e51e6434f33f12cfcd34687cf3a932b4"
                 }
             ],
             "tools": [
