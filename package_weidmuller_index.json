@@ -3,8 +3,8 @@
         {
             "name": "weidmuller",
             "mantainer": "Weidmuller S.A",
-            "websiteURL": "http://www.weidmueller.com",
-            "email": "support@weidmueller.com",
+            "websiteURL": "https://www.weidmuller.es/es/ventas/iot_hub/index.jsp",
+            "email": "weidmuller.spain@weidmueller.com",
             "platforms": [ 
                 {
                     "name": "WEIDOS-MKR",
@@ -12,7 +12,7 @@
                     "version": "1.0.0",
                     "category": "Contributed",
                     "help": {
-                        "online": "http://www.weidmueller.com"
+                        "online": "https://www.weidmuller.es/es/ventas/iot_hub/index.jsp"
                     },
                     "boards": [
                         {
@@ -25,8 +25,8 @@
                             "name": "WEIDOS-MKR1010-NBIOT-A1"
                         }
                     ],
-                    "archiveFileName": "Weidos-mkr-1.0.0.tar.bz2",
-                    "url": "https://github.com/OriolFalip/weidos/raw/main/Weidos-mkr-1.0.0.tar.bz2",
+                    "archiveFileName": "weidos-mkr-1.0.0.tar.bz2",
+                    "url": "https://github.com/WeidmullerSA/Weidos-MKR-package/releases/download/1.0.0/weidos-mkr-1.0.0.tar.bz2",
                     "toolsDependencies": [
                         {
                           "packager": "arduino",
@@ -59,8 +59,8 @@
                           "version": "1.2.1"
                         }
                     ],
-                    "size": 1257889,
-                    "checksum": "SHA-256:2411852420e78a712528f9d16e1c4874e51e6434f33f12cfcd34687cf3a932b4"
+                    "size": 1258055,
+                    "checksum": "SHA-256:8f178b3a48d42dd4e2d01a3b85da17fc61b6db1a504ff431c41018a5ac7f88f9"
                 }
             ],
             "tools": [
