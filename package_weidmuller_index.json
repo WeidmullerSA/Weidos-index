@@ -3,7 +3,7 @@
         {
             "name": "weidmuller",
             "mantainer": "Weidmuller S.A",
-            "websiteURL": "https://www.weidmuller.es/es/ventas/iot_hub/index.jsp",
+            "websiteURL": "https://www.weidmuller.es/es/ventas/application_iot_centre/weidos_devices/index.jsp",
             "email": "weidmuller.spain@weidmueller.com",
             "platforms": [ 
                 {
@@ -12,7 +12,7 @@
                     "version": "1.0.0",
                     "category": "Contributed",
                     "help": {
-                        "online": "https://www.weidmuller.es/es/ventas/iot_hub/index.jsp"
+                        "online": "https://www.weidmuller.es/es/ventas/application_iot_centre/weidos_devices/index.jsp"
                     },
                     "boards": [
                         {
@@ -68,7 +68,7 @@
                     "version": "1.0.0",
                     "category": "Contributed",
                     "help": {
-                        "online": "http://www.weidmueller.com"
+                        "online": "https://www.weidmuller.es/es/ventas/application_iot_centre/weidos_devices/index.jsp"
                     },
                     "boards": [
                         {
@@ -85,37 +85,37 @@
                     "url": "https://github.com/WeidmullerSA/Weidos-ESP32-package/releases/download/1.0.0/weidos-esp32-1.0.0.tar.bz2",
                     "toolsDependencies": [
                       {
-                        "packager": "esp32",
+                        "packager": "weidmuller",
                         "name": "riscv32-esp-elf-gcc",
                         "version": "gcc8_4_0-esp-2021r2-patch3"
                       },
                       {
-                        "packager": "esp32",
+                        "packager": "weidmuller",
                         "name": "xtensa-esp32-elf-gcc",
                         "version": "gcc8_4_0-esp-2021r2-patch3"
                       },
                       {
-                        "packager": "esp32",
+                        "packager": "weidmuller",
                         "name": "xtensa-esp32s2-elf-gcc",
                         "version": "gcc8_4_0-esp-2021r2-patch3"
                       },
                       {
-                        "packager": "esp32",
+                        "packager": "weidmuller",
                         "name": "xtensa-esp32s3-elf-gcc",
                         "version": "gcc8_4_0-esp-2021r2-patch3"
                       },
                       {
-                        "packager": "esp32",
+                        "packager": "weidmuller",
                         "name": "esptool_py",
                         "version": "3.3.0"
                       },
                       {
-                        "packager": "esp32",
+                        "packager": "weidmuller",
                         "name": "mkspiffs",
                         "version": "0.2.3"
                       },
                       {
-                        "packager": "esp32",
+                        "packager": "weidmuller",
                         "name": "mklittlefs",
                         "version": "3.0.0-gnu12-dc7f933"
                       }
