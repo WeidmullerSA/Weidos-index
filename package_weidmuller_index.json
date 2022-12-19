@@ -62,7 +62,63 @@
                     "size": 1258055,
                     "checksum": "SHA-256:8f178b3a48d42dd4e2d01a3b85da17fc61b6db1a504ff431c41018a5ac7f88f9"
                 },
-		{
+                {
+                  "name": "WEIDOS-MKR",
+                  "architecture": "samd",
+                  "version": "1.0.1",
+                  "category": "Contributed",
+                  "help": {
+                      "online": "https://www.weidmuller.es/es/ventas/application_iot_centre/weidos_devices/index.jsp"
+                  },
+                  "boards": [
+                      {
+                          "name": "WEIDOS-MKR1010-A1"
+                      },
+                      {
+                          "name": "WEIDOS-MKR1010-LORA-A1"
+                      },
+                      {
+                          "name": "WEIDOS-MKR1010-NBIOT-A1"
+                      }
+                  ],
+                  "archiveFileName": "weidos-mkr-1.0.1.tar.bz2",
+                  "url": "https://github.com/WeidmullerSA/Weidos-MKR-package/releases/download/1.0.1/weidos-mkr-1.0.1.tar.bz2",
+                  "toolsDependencies": [
+                      {
+                        "packager": "arduino",
+                        "name": "arm-none-eabi-gcc",
+                        "version": "7-2017q4"
+                      },
+                      {
+                        "packager": "arduino",
+                        "name": "bossac",
+                        "version": "1.7.0-arduino3"
+                      },
+                      {
+                        "packager": "arduino",
+                        "name": "openocd",
+                        "version": "0.10.0-arduino7"
+                      },
+                      {
+                        "packager": "arduino",
+                        "name": "CMSIS",
+                        "version": "4.5.0"
+                      },
+                      {
+                        "packager": "arduino",
+                        "name": "CMSIS-Atmel",
+                        "version": "1.2.0"
+                      },
+                      {
+                        "packager": "arduino",
+                        "name": "arduinoOTA",
+                        "version": "1.2.1"
+                      }
+                  ],
+                  "size": 1033944,
+                  "checksum": "SHA-256:b1cd2f0ba08a443b72696922d9a819c87bb6fddf615184cb681a31001d38aeac"
+                },
+                {
                     "name": "WEIDOS-ESP32",
                     "architecture": "esp32",
                     "version": "1.0.0",
