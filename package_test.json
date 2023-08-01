@@ -1,0 +1,11 @@
+{   
+    "packages": [
+        {
+            "name": "weidmuller",
+            "mantainer": "Weidmuller S.A",
+            "websiteURL": "https://www.weidmuller.es/es/ventas/application_iot_centre/weidos_devices/index.jsp",
+            "email": "weidmuller.spain@weidmueller.com"
+            
+        }
+    ]
+}
